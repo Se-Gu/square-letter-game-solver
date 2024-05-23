@@ -1,5 +1,9 @@
 # Square Letter Game Solver
 
+## Inspiration
+
+This project was inspired by the [Squares](https://squares.org/) word game. The solver is designed to emulate the game's mechanics and rules, providing an automated way to find the maximum scoring words from a given grid.
+
 This project implements a solver for a square letter game where the goal is to find all possible words in a given letter grid. The solver uses a depth-first search (DFS) algorithm to explore all valid words by connecting letters in various directions.
 
 ## How to Play
